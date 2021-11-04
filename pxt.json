@@ -1,5 +1,6 @@
 {
     "name": "Proyecto Final",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "core": "*",
